@@ -1,0 +1,30 @@
+---
+title: "About"
+---
+
+## GRDI
+
+From the official [GRDI website](https://grdi.canada.ca/en/about-genomics-rd-initiative-grdi):
+
+> The intramural Genomics Research and Development Initiative (GRDI) funds genomics research in eight federal science departments and agencies. It supports innovation and evidence-based regulatory, policy, and resource management decisions. It focuses on areas where government is best able to address issues important to Canadians. Government priorities and the needs of end users drive the GRDI.
+
+## AMR
+
+Antimicrobial resistance (AMR) refers to the ability of microorganisms, such as bacteria, fungi, or viruses, to withstand (or partially withstand) the effects of an antimicrobial to which they were formerly susceptible.
+
+## The GRDI-AMR(1) project
+
+The [GRDI-AMR(1) project](https://grdi.canada.ca/en/projects/antimicrobial-resistance-amr-project) provided $11.1 million over six years (2016 - 2022) to support the development of genomic resources used to understand and combat AMR in the agri-food system.
+
+## The GRDI-AMR(2) project
+
+The [GRDI-AMR(2) project](https://grdi.canada.ca/en/projects/antimicrobial-resistance-2-amr2-project) is providing $9.8 million over five years (2022 - 2027) to build upon the successes of the GRDI-AMR1 project and further address AMR using a One Health approach.
+
+## GRDI-AMR.com
+
+The [GRDI-AMR.com website](https://grdi-amr.com) (this website) is an unofficial resource used to share public information about the GRDI-AMR1 and GRDI-AMR2 projects. For more details, see [ here](https://github.com/grdi-amr/GRDI-AMR.com).
+
+Built using [Quarto](https://quarto.org/). Served using [GitHub Pages](https://pages.github.com/). Developed by [Brennan Chapman](https://github.com/chapb).
+
+
+For questions, comments, or concerns, please contact: [admin@grdi-amr.com](mailto:admin@grdi-amr.com).  
