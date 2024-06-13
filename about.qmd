@@ -22,9 +22,8 @@ The [GRDI-AMR(2) project](https://grdi.canada.ca/en/projects/antimicrobial-resis
 
 ## GRDI-AMR.com
 
-The [GRDI-AMR.com website](https://grdi-amr.com) (this website) is an unofficial resource used to share public information about the GRDI-AMR1 and GRDI-AMR2 projects. For more details, see [ here](https://github.com/grdi-amr/GRDI-AMR.com).
+The [GRDI-AMR.com website](https://grdi-amr.com) (this website) is an unofficial resource used to share public information about the GRDI-AMR1 and GRDI-AMR2 projects. For more details, see [here](https://github.com/grdi-amr/GRDI-AMR.com).
 
 Built using [Quarto](https://quarto.org/). Served using [GitHub Pages](https://pages.github.com/). Developed by [Brennan Chapman](https://github.com/chapb).
-
 
 For questions, comments, or concerns, please contact: [admin@grdi-amr.com](mailto:admin@grdi-amr.com).  
