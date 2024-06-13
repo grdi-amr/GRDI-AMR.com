@@ -1,5 +1,7 @@
 ---
 title: "Publications"
+
+pub-list-update: XXXX-YY-ZZ
 ---
 
 ## Publication library
@@ -7,6 +9,18 @@ title: "Publications"
 GRDI-AMR.com maintains a [publicly-available library of publications](https://www.zotero.org/groups/4425256/grdi-amr/library) related to the GRDI-AMR1|2 projects. For more information, see the [publication library documentation](https://github.com/grdi-amr/publications).
 
 The library is compiled on a best-effort basis and may be incomplete.
+
+### Import
+
+Import the publication library:
+
+- [.csv]()
+- [.bib]()
+
+### List
+
+*{{< meta pub-list-update >}}*
+
 
 ## See also
 
