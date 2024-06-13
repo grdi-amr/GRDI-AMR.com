@@ -1,3 +1,14 @@
 ---
 title: "Publications"
 ---
+
+## Publication library
+
+GRDI-AMR.com maintains a [publicly-available library of publications](https://www.zotero.org/groups/4425256/grdi-amr/library) related to the GRDI-AMR1|2 projects. For more information, see the [publication library documentation](https://github.com/grdi-amr/publications).
+
+The library is compiled on a best-effort basis and may be incomplete.
+
+## See also
+
+- The [official list](https://grdi.canada.ca/en/projects/antimicrobial-resistance-amr-project) of GRDI-AMR1 publications.
+- The [official list](https://grdi.canada.ca/en/projects/antimicrobial-resistance-2-amr2-project) of GRDI-AMR2 publications.
