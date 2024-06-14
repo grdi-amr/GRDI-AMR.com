@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "GRDI-AMR.com maintains a publicly-available library of publications related to the GRDI-AMR1|2 projects. For more information, see the publication library documentation.\nThe library is compiled on a best-effort basis and may be incomplete.\n\n\nImport the publication library:\n\n.csv\n.bib\n\n\n\n\nXXXX-YY-ZZ"
+  },
+  {
+    "objectID": "publications.html#publication-library",
+    "href": "publications.html#publication-library",
+    "title": "Publications",
+    "section": "",
+    "text": "GRDI-AMR.com maintains a publicly-available library of publications related to the GRDI-AMR1|2 projects. For more information, see the publication library documentation.\nThe library is compiled on a best-effort basis and may be incomplete.\n\n\nImport the publication library:\n\n.csv\n.bib\n\n\n\n\nXXXX-YY-ZZ"
+  },
+  {
+    "objectID": "publications.html#see-also",
+    "href": "publications.html#see-also",
+    "title": "Publications",
+    "section": "See also",
+    "text": "See also\n\nThe official list of GRDI-AMR1 publications.\nThe official list of GRDI-AMR2 publications."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -40,26 +61,5 @@
     "title": "About",
     "section": "GRDI-AMR.com",
     "text": "GRDI-AMR.com\nThe GRDI-AMR.com website (this website) is an unofficial resource used to share public information about the GRDI-AMR1 and GRDI-AMR2 projects. For more details, see here.\nBuilt using Quarto. Served using GitHub Pages. Developed by Brennan Chapman.\nFor questions, comments, or concerns, please contact: admin@grdi-amr.com."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "GRDI-AMR.com maintains a publicly-available library of publications related to the GRDI-AMR1|2 projects. For more information, see the publication library documentation.\nThe library is compiled on a best-effort basis and may be incomplete.\n\n\nImport the publication library:\n\n.csv\n.bib\n\n\n\n\nXXXX-YY-ZZ"
-  },
-  {
-    "objectID": "publications.html#publication-library",
-    "href": "publications.html#publication-library",
-    "title": "Publications",
-    "section": "",
-    "text": "GRDI-AMR.com maintains a publicly-available library of publications related to the GRDI-AMR1|2 projects. For more information, see the publication library documentation.\nThe library is compiled on a best-effort basis and may be incomplete.\n\n\nImport the publication library:\n\n.csv\n.bib\n\n\n\n\nXXXX-YY-ZZ"
-  },
-  {
-    "objectID": "publications.html#see-also",
-    "href": "publications.html#see-also",
-    "title": "Publications",
-    "section": "See also",
-    "text": "See also\n\nThe official list of GRDI-AMR1 publications.\nThe official list of GRDI-AMR2 publications."
   }
 ]
