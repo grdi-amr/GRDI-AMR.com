@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "From the official GRDI website:\n\nThe intramural Genomics Research and Development Initiative (GRDI) funds genomics research in eight federal science departments and agencies. It supports innovation and evidence-based regulatory, policy, and resource management decisions. It focuses on areas where government is best able to address issues important to Canadians. Government priorities and the needs of end users drive the GRDI."
+  },
+  {
+    "objectID": "about.html#grdi",
+    "href": "about.html#grdi",
+    "title": "About",
+    "section": "",
+    "text": "From the official GRDI website:\n\nThe intramural Genomics Research and Development Initiative (GRDI) funds genomics research in eight federal science departments and agencies. It supports innovation and evidence-based regulatory, policy, and resource management decisions. It focuses on areas where government is best able to address issues important to Canadians. Government priorities and the needs of end users drive the GRDI."
+  },
+  {
+    "objectID": "about.html#amr",
+    "href": "about.html#amr",
+    "title": "About",
+    "section": "AMR",
+    "text": "AMR\nAntimicrobial resistance (AMR) refers to the ability of microorganisms, such as bacteria, fungi, or viruses, to withstand (or partially withstand) the effects of an antimicrobial to which they were formerly susceptible."
+  },
+  {
+    "objectID": "about.html#the-grdi-amr1-project",
+    "href": "about.html#the-grdi-amr1-project",
+    "title": "About",
+    "section": "The GRDI-AMR(1) project",
+    "text": "The GRDI-AMR(1) project\nThe GRDI-AMR(1) project provided $11.1 million over six years (2016 - 2022) to support the development of genomic resources used to understand and combat AMR in the agri-food system."
+  },
+  {
+    "objectID": "about.html#the-grdi-amr2-project",
+    "href": "about.html#the-grdi-amr2-project",
+    "title": "About",
+    "section": "The GRDI-AMR(2) project",
+    "text": "The GRDI-AMR(2) project\nThe GRDI-AMR(2) project is providing $9.8 million over five years (2022 - 2027) to build upon the successes of the GRDI-AMR1 project and further address AMR using a One Health approach."
+  },
+  {
+    "objectID": "about.html#grdi-amr.com",
+    "href": "about.html#grdi-amr.com",
+    "title": "About",
+    "section": "GRDI-AMR.com",
+    "text": "GRDI-AMR.com\nThe GRDI-AMR.com website (this website) is an unofficial resource used to share public information about the GRDI-AMR1 and GRDI-AMR2 projects. For more details, see here.\nBuilt using Quarto. Served using GitHub Pages. Developed by Brennan Chapman.\nFor questions, comments, or concerns, please contact: admin@grdi-amr.com."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "GRDI-AMR.com maintains a publicly-available library of publications related to the GRDI-AMR1|2 projects. For more information, see the publication library documentation.\nThe library is compiled on a best-effort basis and may be incomplete.\n\n\nImport the publication library:\n\n.csv\n.bib\n\n\n\n\nXXXX-YY-ZZ"
+  },
+  {
+    "objectID": "publications.html#publication-library",
+    "href": "publications.html#publication-library",
+    "title": "Publications",
+    "section": "",
+    "text": "GRDI-AMR.com maintains a publicly-available library of publications related to the GRDI-AMR1|2 projects. For more information, see the publication library documentation.\nThe library is compiled on a best-effort basis and may be incomplete.\n\n\nImport the publication library:\n\n.csv\n.bib\n\n\n\n\nXXXX-YY-ZZ"
+  },
+  {
+    "objectID": "publications.html#see-also",
+    "href": "publications.html#see-also",
+    "title": "Publications",
+    "section": "See also",
+    "text": "See also\n\nThe official list of GRDI-AMR1 publications.\nThe official list of GRDI-AMR2 publications."
+  }
+]
