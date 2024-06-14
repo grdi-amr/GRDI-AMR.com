@@ -61,5 +61,12 @@
     "title": "About",
     "section": "GRDI-AMR.com",
     "text": "GRDI-AMR.com\nThe GRDI-AMR.com website (this website) is an unofficial resource used to share public information about the GRDI-AMR1 and GRDI-AMR2 projects. For more details, see here.\nBuilt using Quarto. Served using GitHub Pages. Developed by Brennan Chapman.\nFor questions, comments, or concerns, please contact: admin@grdi-amr.com."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the GRDI-AMR project",
+    "section": "",
+    "text": "The unofficial website of the GRDI-AMR project."
   }
 ]
