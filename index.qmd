@@ -2,3 +2,4 @@
 title: "Welcome to the GRDI-AMR project"
 ---
 
+The unofficial website of the GRDI-AMR project.
