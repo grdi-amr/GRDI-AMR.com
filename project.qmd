@@ -2,3 +2,26 @@
 title: "Project"
 ---
 
+## GRDI-AMR1
+
+- 1.0. Deployment of WGS and Metagenomics Sequencing
+  - 1.1. Deployment of whole genome sequencing
+- 2.0. Development of in silico Tools
+  - 2.1. Development of analytics for AMR WGS
+  - 2.2. Development of analytics for AMR metagenomics
+  - 2.3. Development of analytics for AMR transmission modelling
+  - 2.4. Development of analytics for associating ARGs with mobile genetic elements
+- 3.0. AMR Transmission Dynamics
+  - 3.1. Genomic epidemiology and transmission modelling of AMR Salmonella through F3 (food, feed fertilizer) poultry production system
+  - 3.2. Analysis of occurrence and transmission of beta-lactam ARGs
+  - 3.3. AMR burden of Enterobacteriaceae in imported seafood and other food systems
+  - 3.4. In vivo transmission
+  - 3.5. Culture-independent analysis of ARGs for assessing horizontal transfer of AMR determinants
+- 4.0. Mitigation
+  - 4.1. Poultry
+  - 4.2. Swine
+  - 4.3. Beef
+  - 4.4. Agroecosystems
+- 5.0. Risk
+  - 5.1. Development of the integrated assessment model (IAM)
+  - 5.2. Risk assessment & risk science
