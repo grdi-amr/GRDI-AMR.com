@@ -1,8 +1,18 @@
 ---
 title: "Publications"
-
-pub-list-update: XXXX-YY-ZZ
 ---
+
+```{r echo=FALSE}
+#' Retrieve last tag (date) of library release.
+#' The links below point to the latest release of the exports from the publications
+#' repo. This chunk gets the tag (the date) of the last release using the API.
+
+library(httr2)
+
+req            <- req_perform(request("https://api.github.com/repos/grdi-amr/publications/releases/latest"))
+latest_release <- resp_body_json(req)$tag_name
+```
+
 
 ## Publication library
 
@@ -10,18 +20,16 @@ GRDI-AMR.com maintains a [publicly-available library of publications](https://ww
 
 The library is compiled on a best-effort basis and may be incomplete.
 
-### Import
-
 Import the publication library:
 
-- [.csv]()
-- [.bib]()
+- [.bib](https://github.com/grdi-amr/publications/releases/latest/download/GRDI-AMR.bib)
+- [.csv](https://github.com/grdi-amr/publications/releases/latest/download/GRDI-AMR.csv)
+- [.ris](https://github.com/grdi-amr/publications/releases/latest/download/GRDI-AMR.ris)
 
-### List
+*Last update: `r latest_release`*
 
-*{{< meta pub-list-update >}}*
 
-#### GRDI-AMR1
+### GRDI-AMR1
 
 ```{=html}
 
@@ -166,7 +174,7 @@ Import the publication library:
 
 ```
 
-#### GRDI-AMR2
+### GRDI-AMR2
 
 ```{=html}
 
