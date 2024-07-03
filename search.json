@@ -1,5 +1,68 @@
 [
   {
+    "objectID": "softwaretools.html",
+    "href": "softwaretools.html",
+    "title": "Software and Tools",
+    "section": "",
+    "text": "Software and tools developed as part of the GRDI-AMR1|2 projects."
+  },
+  {
+    "objectID": "softwaretools.html#acheron",
+    "href": "softwaretools.html#acheron",
+    "title": "Software and Tools",
+    "section": "Acheron",
+    "text": "Acheron\nAcheron is a command line based workflow manager that allows for large scale, fast, and memory efficient machine-learning analyses of whole-genome sequence data."
+  },
+  {
+    "objectID": "softwaretools.html#baitcapture",
+    "href": "softwaretools.html#baitcapture",
+    "title": "Software and Tools",
+    "section": "BaitCapture",
+    "text": "BaitCapture\nBaitCapture is a bioinformatics workflow designed for processing sequencing data obtained from targeted resistome bait-capture sequencing, built using Nextflow."
+  },
+  {
+    "objectID": "softwaretools.html#confindr",
+    "href": "softwaretools.html#confindr",
+    "title": "Software and Tools",
+    "section": "ConFindr",
+    "text": "ConFindr\nConFindr is designed to find bacterial intra-species contamination in raw Illumina data."
+  },
+  {
+    "objectID": "softwaretools.html#mob-suite",
+    "href": "softwaretools.html#mob-suite",
+    "title": "Software and Tools",
+    "section": "MOB-suite",
+    "text": "MOB-suite\nMOB-suite is a group of software tools for clustering, reconstruction and typing of plasmids from draft assemblies."
+  },
+  {
+    "objectID": "softwaretools.html#staramr",
+    "href": "softwaretools.html#staramr",
+    "title": "Software and Tools",
+    "section": "staramr",
+    "text": "staramr\nstaramr (*AMR) scans bacterial genome contigs against the ResFinder, PointFinder, and PlasmidFinder databases and compiles a summary report of detected antimicrobial resistance genes."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the GRDI-AMR project",
+    "section": "",
+    "text": "The unofficial website of the GRDI-AMR project.\nThis website is currently under construction."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Project",
+    "section": "",
+    "text": "1.0. Deployment of WGS and Metagenomics Sequencing\n\n1.1. Deployment of whole genome sequencing\n\n2.0. Development of in silico Tools\n\n2.1. Development of analytics for AMR WGS\n2.2. Development of analytics for AMR metagenomics\n2.3. Development of analytics for AMR transmission modelling\n2.4. Development of analytics for associating ARGs with mobile genetic elements\n\n3.0. AMR Transmission Dynamics\n\n3.1. Genomic epidemiology and transmission modelling of AMR Salmonella through F3 (food, feed fertilizer) poultry production system\n3.2. Analysis of occurrence and transmission of beta-lactam ARGs\n3.3. AMR burden of Enterobacteriaceae in imported seafood and other food systems\n3.4. In vivo transmission\n3.5. Culture-independent analysis of ARGs for assessing horizontal transfer of AMR determinants\n\n4.0. Mitigation\n\n4.1. Poultry\n4.2. Swine\n4.3. Beef\n4.4. Agroecosystems\n\n5.0. Risk\n\n5.1. Development of the integrated assessment model (IAM)\n5.2. Risk assessment & risk science"
+  },
+  {
+    "objectID": "project.html#grdi-amr1",
+    "href": "project.html#grdi-amr1",
+    "title": "Project",
+    "section": "",
+    "text": "1.0. Deployment of WGS and Metagenomics Sequencing\n\n1.1. Deployment of whole genome sequencing\n\n2.0. Development of in silico Tools\n\n2.1. Development of analytics for AMR WGS\n2.2. Development of analytics for AMR metagenomics\n2.3. Development of analytics for AMR transmission modelling\n2.4. Development of analytics for associating ARGs with mobile genetic elements\n\n3.0. AMR Transmission Dynamics\n\n3.1. Genomic epidemiology and transmission modelling of AMR Salmonella through F3 (food, feed fertilizer) poultry production system\n3.2. Analysis of occurrence and transmission of beta-lactam ARGs\n3.3. AMR burden of Enterobacteriaceae in imported seafood and other food systems\n3.4. In vivo transmission\n3.5. Culture-independent analysis of ARGs for assessing horizontal transfer of AMR determinants\n\n4.0. Mitigation\n\n4.1. Poultry\n4.2. Swine\n4.3. Beef\n4.4. Agroecosystems\n\n5.0. Risk\n\n5.1. Development of the integrated assessment model (IAM)\n5.2. Risk assessment & risk science"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -19,20 +82,6 @@
     "title": "Publications",
     "section": "See also",
     "text": "See also\n\nThe official list of GRDI-AMR1 publications.\nThe official list of GRDI-AMR2 publications."
-  },
-  {
-    "objectID": "project.html",
-    "href": "project.html",
-    "title": "Project",
-    "section": "",
-    "text": "1.0. Deployment of WGS and Metagenomics Sequencing\n\n1.1. Deployment of whole genome sequencing\n\n2.0. Development of in silico Tools\n\n2.1. Development of analytics for AMR WGS\n2.2. Development of analytics for AMR metagenomics\n2.3. Development of analytics for AMR transmission modelling\n2.4. Development of analytics for associating ARGs with mobile genetic elements\n\n3.0. AMR Transmission Dynamics\n\n3.1. Genomic epidemiology and transmission modelling of AMR Salmonella through F3 (food, feed fertilizer) poultry production system\n3.2. Analysis of occurrence and transmission of beta-lactam ARGs\n3.3. AMR burden of Enterobacteriaceae in imported seafood and other food systems\n3.4. In vivo transmission\n3.5. Culture-independent analysis of ARGs for assessing horizontal transfer of AMR determinants\n\n4.0. Mitigation\n\n4.1. Poultry\n4.2. Swine\n4.3. Beef\n4.4. Agroecosystems\n\n5.0. Risk\n\n5.1. Development of the integrated assessment model (IAM)\n5.2. Risk assessment & risk science"
-  },
-  {
-    "objectID": "project.html#grdi-amr1",
-    "href": "project.html#grdi-amr1",
-    "title": "Project",
-    "section": "",
-    "text": "1.0. Deployment of WGS and Metagenomics Sequencing\n\n1.1. Deployment of whole genome sequencing\n\n2.0. Development of in silico Tools\n\n2.1. Development of analytics for AMR WGS\n2.2. Development of analytics for AMR metagenomics\n2.3. Development of analytics for AMR transmission modelling\n2.4. Development of analytics for associating ARGs with mobile genetic elements\n\n3.0. AMR Transmission Dynamics\n\n3.1. Genomic epidemiology and transmission modelling of AMR Salmonella through F3 (food, feed fertilizer) poultry production system\n3.2. Analysis of occurrence and transmission of beta-lactam ARGs\n3.3. AMR burden of Enterobacteriaceae in imported seafood and other food systems\n3.4. In vivo transmission\n3.5. Culture-independent analysis of ARGs for assessing horizontal transfer of AMR determinants\n\n4.0. Mitigation\n\n4.1. Poultry\n4.2. Swine\n4.3. Beef\n4.4. Agroecosystems\n\n5.0. Risk\n\n5.1. Development of the integrated assessment model (IAM)\n5.2. Risk assessment & risk science"
   },
   {
     "objectID": "about.html",
@@ -75,26 +124,5 @@
     "title": "About",
     "section": "GRDI-AMR.com",
     "text": "GRDI-AMR.com\nThe GRDI-AMR.com website (this website) is an unofficial resource used to share public information about the GRDI-AMR1 and GRDI-AMR2 projects. For more details, see here.\nBuilt using Quarto. Served using GitHub Pages. Developed by Brennan Chapman.\nFor questions, comments, or concerns, please contact: admin@grdi-amr.com."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to the GRDI-AMR project",
-    "section": "",
-    "text": "The unofficial website of the GRDI-AMR project.\nThis website is currently under construction."
-  },
-  {
-    "objectID": "softwaretools.html",
-    "href": "softwaretools.html",
-    "title": "Software and Tools",
-    "section": "",
-    "text": "Software tools for clustering, reconstruction and typing of plasmids from draft assemblies.\nLink"
-  },
-  {
-    "objectID": "softwaretools.html#mob-suite",
-    "href": "softwaretools.html#mob-suite",
-    "title": "Software and Tools",
-    "section": "",
-    "text": "Software tools for clustering, reconstruction and typing of plasmids from draft assemblies.\nLink"
   }
 ]
