@@ -2,8 +2,36 @@
 title: "Software and Tools"
 ---
 
+Software and tools developed as part of the GRDI-AMR1|2 projects.
+
+## Acheron
+
+[Acheron](https://github.com/superphy/acheron) is a command line based workflow
+manager that allows for large scale, fast, and memory efficient machine-learning
+analyses of whole-genome sequence data.
+
+
+## BaitCapture
+
+[BaitCapture](https://github.com/OLC-Bioinformatics/BaitCapture) is a
+bioinformatics workflow designed for processing sequencing data obtained from
+targeted resistome bait-capture sequencing, built using Nextflow.
+
+
+## ConFindr
+
+[ConFindr](https://github.com/OLC-Bioinformatics/ConFindr) is designed to find
+bacterial intra-species contamination in raw Illumina data.
+
+
 ## MOB-suite
 
-Software tools for clustering, reconstruction and typing of plasmids from draft assemblies.
+[MOB-suite](https://github.com/phac-nml/mob-suite) is a group of software tools
+for clustering, reconstruction and typing of plasmids from draft assemblies.
 
-[Link](https://github.com/phac-nml/mob-suite)
+
+## staramr
+
+[staramr (*AMR)](https://github.com/phac-nml/staramr) scans bacterial genome
+contigs against the ResFinder, PointFinder, and PlasmidFinder databases and
+compiles a summary report of detected antimicrobial resistance genes.
