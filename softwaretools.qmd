@@ -24,6 +24,19 @@ targeted resistome bait-capture sequencing, built using Nextflow.
 bacterial intra-species contamination in raw Illumina data.
 
 
+## DataHarmonizer
+
+[DataHarmonizer](https://github.com/cidgoh/DataHarmonizer) is a standardized 
+browser-based spreadsheet editor and validator, which works off of LinkML data
+specifications.
+
+
+## GRDI-AMR Data Specification
+
+The [GRDI-AMR Data Specification](https://github.com/cidgoh/GRDI_AMR_One_Health)
+for harmonizing One Health AMR pathogen genomics contextual data.
+
+
 ## MOB-suite
 
 [MOB-suite](https://github.com/phac-nml/mob-suite) is a group of software tools
