@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://grdi-amr.com/softwaretools.html</loc>
-    <lastmod>2024-07-03T03:40:45.974Z</lastmod>
+    <loc>https://grdi-amr.com/publications.html</loc>
+    <lastmod>2024-11-05T06:39:23.560Z</lastmod>
   </url>
   <url>
     <loc>https://grdi-amr.com/index.html</loc>
-    <lastmod>2024-07-03T03:40:45.974Z</lastmod>
-  </url>
-  <url>
-    <loc>https://grdi-amr.com/project.html</loc>
-    <lastmod>2024-07-03T03:40:45.974Z</lastmod>
-  </url>
-  <url>
-    <loc>https://grdi-amr.com/publications.html</loc>
-    <lastmod>2024-07-03T03:40:45.974Z</lastmod>
+    <lastmod>2024-11-05T06:39:23.560Z</lastmod>
   </url>
   <url>
     <loc>https://grdi-amr.com/links.html</loc>
-    <lastmod>2024-07-03T03:40:45.974Z</lastmod>
+    <lastmod>2024-11-05T06:39:23.560Z</lastmod>
+  </url>
+  <url>
+    <loc>https://grdi-amr.com/project.html</loc>
+    <lastmod>2024-11-05T06:39:23.560Z</lastmod>
   </url>
   <url>
     <loc>https://grdi-amr.com/about.html</loc>
-    <lastmod>2024-07-03T03:40:45.974Z</lastmod>
+    <lastmod>2024-11-05T06:39:23.560Z</lastmod>
+  </url>
+  <url>
+    <loc>https://grdi-amr.com/softwaretools.html</loc>
+    <lastmod>2024-11-05T06:39:23.560Z</lastmod>
   </url>
 </urlset>
