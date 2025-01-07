@@ -21,11 +21,67 @@
     "text": "See also\n\nThe official list of GRDI-AMR1 publications.\nThe official list of GRDI-AMR2 publications."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to the GRDI-AMR project",
+    "objectID": "softwaretools.html",
+    "href": "softwaretools.html",
+    "title": "Software and Tools",
     "section": "",
-    "text": "The unofficial website of the GRDI-AMR project.\nThis website is currently under construction."
+    "text": "Software and tools developed as part of the GRDI-AMR1|2 projects."
+  },
+  {
+    "objectID": "softwaretools.html#acheron",
+    "href": "softwaretools.html#acheron",
+    "title": "Software and Tools",
+    "section": "Acheron",
+    "text": "Acheron\nAcheron is a command line based workflow manager that allows for large scale, fast, and memory efficient machine-learning analyses of whole-genome sequence data."
+  },
+  {
+    "objectID": "softwaretools.html#baitcapture",
+    "href": "softwaretools.html#baitcapture",
+    "title": "Software and Tools",
+    "section": "BaitCapture",
+    "text": "BaitCapture\nBaitCapture is a bioinformatics workflow designed for processing sequencing data obtained from targeted resistome bait-capture sequencing, built using Nextflow."
+  },
+  {
+    "objectID": "softwaretools.html#confindr",
+    "href": "softwaretools.html#confindr",
+    "title": "Software and Tools",
+    "section": "ConFindr",
+    "text": "ConFindr\nConFindr is designed to find bacterial intra-species contamination in raw Illumina data."
+  },
+  {
+    "objectID": "softwaretools.html#dataharmonizer",
+    "href": "softwaretools.html#dataharmonizer",
+    "title": "Software and Tools",
+    "section": "DataHarmonizer",
+    "text": "DataHarmonizer\nDataHarmonizer is a standardized browser-based spreadsheet editor and validator, which works off of LinkML data specifications."
+  },
+  {
+    "objectID": "softwaretools.html#grdi-amr-data-specification",
+    "href": "softwaretools.html#grdi-amr-data-specification",
+    "title": "Software and Tools",
+    "section": "GRDI-AMR Data Specification",
+    "text": "GRDI-AMR Data Specification\nThe GRDI-AMR Data Specification for harmonizing One Health AMR pathogen genomics contextual data."
+  },
+  {
+    "objectID": "softwaretools.html#mob-suite",
+    "href": "softwaretools.html#mob-suite",
+    "title": "Software and Tools",
+    "section": "MOB-suite",
+    "text": "MOB-suite\nMOB-suite is a group of software tools for clustering, reconstruction and typing of plasmids from draft assemblies."
+  },
+  {
+    "objectID": "softwaretools.html#staramr",
+    "href": "softwaretools.html#staramr",
+    "title": "Software and Tools",
+    "section": "staramr",
+    "text": "staramr\nstaramr (*AMR) scans bacterial genome contigs against the ResFinder, PointFinder, and PlasmidFinder databases and compiles a summary report of detected antimicrobial resistance genes."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "GRDI-AMR Project News",
+    "section": "",
+    "text": "Announcing GRAPL\n\n\n\n\n\n\nGRDI-AMR.com\n\n\n\nGRAPL (pronounced ‘grapple’) catalogues publications associated with the GRDI-AMR1 and GRDI-AMR2 projects.\n\n\n\n\n\nJan 7, 2025\n\n\nBrennan Chapman\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "project.html",
@@ -84,59 +140,17 @@
     "text": "GRDI-AMR.com\nThe GRDI-AMR.com website (this website) is an unofficial resource used to share public information about the GRDI-AMR1 and GRDI-AMR2 projects. For more details, see here.\nBuilt using Quarto. Served using GitHub Pages. Developed by Brennan Chapman.\nFor questions, comments, or concerns, please contact: admin@grdi-amr.com."
   },
   {
-    "objectID": "softwaretools.html",
-    "href": "softwaretools.html",
-    "title": "Software and Tools",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the GRDI-AMR project",
     "section": "",
-    "text": "Software and tools developed as part of the GRDI-AMR1|2 projects."
+    "text": "The unofficial website of the GRDI-AMR project."
   },
   {
-    "objectID": "softwaretools.html#acheron",
-    "href": "softwaretools.html#acheron",
-    "title": "Software and Tools",
-    "section": "Acheron",
-    "text": "Acheron\nAcheron is a command line based workflow manager that allows for large scale, fast, and memory efficient machine-learning analyses of whole-genome sequence data."
-  },
-  {
-    "objectID": "softwaretools.html#baitcapture",
-    "href": "softwaretools.html#baitcapture",
-    "title": "Software and Tools",
-    "section": "BaitCapture",
-    "text": "BaitCapture\nBaitCapture is a bioinformatics workflow designed for processing sequencing data obtained from targeted resistome bait-capture sequencing, built using Nextflow."
-  },
-  {
-    "objectID": "softwaretools.html#confindr",
-    "href": "softwaretools.html#confindr",
-    "title": "Software and Tools",
-    "section": "ConFindr",
-    "text": "ConFindr\nConFindr is designed to find bacterial intra-species contamination in raw Illumina data."
-  },
-  {
-    "objectID": "softwaretools.html#dataharmonizer",
-    "href": "softwaretools.html#dataharmonizer",
-    "title": "Software and Tools",
-    "section": "DataHarmonizer",
-    "text": "DataHarmonizer\nDataHarmonizer is a standardized browser-based spreadsheet editor and validator, which works off of LinkML data specifications."
-  },
-  {
-    "objectID": "softwaretools.html#grdi-amr-data-specification",
-    "href": "softwaretools.html#grdi-amr-data-specification",
-    "title": "Software and Tools",
-    "section": "GRDI-AMR Data Specification",
-    "text": "GRDI-AMR Data Specification\nThe GRDI-AMR Data Specification for harmonizing One Health AMR pathogen genomics contextual data."
-  },
-  {
-    "objectID": "softwaretools.html#mob-suite",
-    "href": "softwaretools.html#mob-suite",
-    "title": "Software and Tools",
-    "section": "MOB-suite",
-    "text": "MOB-suite\nMOB-suite is a group of software tools for clustering, reconstruction and typing of plasmids from draft assemblies."
-  },
-  {
-    "objectID": "softwaretools.html#staramr",
-    "href": "softwaretools.html#staramr",
-    "title": "Software and Tools",
-    "section": "staramr",
-    "text": "staramr\nstaramr (*AMR) scans bacterial genome contigs against the ResFinder, PointFinder, and PlasmidFinder databases and compiles a summary report of detected antimicrobial resistance genes."
+    "objectID": "posts/2024-11-12_announce_grapl.html",
+    "href": "posts/2024-11-12_announce_grapl.html",
+    "title": "Announcing GRAPL",
+    "section": "",
+    "text": "Today we’re announcing the availability of the GRDI-AMR Publication Library or GRAPL (pronounced “grapple”).\nThe GRDI-AMR Publication Library or GRAPL is a Zotero Group Library created and maintained by Brennan Chapman (@chapb) to catalogue publications associated with the GRDI-AMR1 and GRDI-AMR2 projects.\nLearn more here."
   }
 ]
