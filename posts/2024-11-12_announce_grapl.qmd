@@ -1,0 +1,19 @@
+---
+title: "Announcing GRAPL"
+description: "GRAPL (pronounced 'grapple') catalogues publications associated with the GRDI-AMR1 and GRDI-AMR2 projects."
+author: "Brennan Chapman"
+date: "2025-01-07"
+categories:
+  - GRDI-AMR.com
+---
+
+Today we're announcing the availability of the GRDI-AMR Publication Library or
+GRAPL (pronounced "grapple").
+
+The [**GRDI-AMR Publication Library**](https://grapl.grdi-amr.com/) or
+[*GRAPL*](https://grapl.grdi-amr.com/) is a
+[Zotero](https://www.zotero.org/) [Group Library](https://www.zotero.org/support/groups) 
+created and maintained by Brennan Chapman ([@chapb](https://github.com/chapb)) to 
+catalogue publications associated with the GRDI-AMR1 and GRDI-AMR2 projects.
+
+Learn more [here](https://github.com/grdi-amr/publications).

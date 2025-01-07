@@ -1,0 +1,9 @@
+---
+title: "GRDI-AMR Project News"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+---
+

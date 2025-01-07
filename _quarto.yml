@@ -6,13 +6,14 @@ website:
   title: "GRDI-AMR"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - about.qmd
       - project.qmd
       - publications.qmd
       - softwaretools.qmd
+      - text: "News"
+        href: news.qmd
       - links.qmd
+
 
 format:
   html:
